@@ -1,8 +1,8 @@
 /.metadata/
+ .gitignore
 .gitignore
-       .gitignore
-       .mvn/wrapper/maven-wrapper.jar
-        .mvn/wrapper/maven-wrapper.properties
-      /mvnw
-      /mvnw.cmd
+ .mvn/wrapper/maven-wrapper.jar
+ .mvn/wrapper/maven-wrapper.properties
+  GitAndGithubDemo/mvnw
+  GitAndGithubDemo/mvnw.cmd
 
